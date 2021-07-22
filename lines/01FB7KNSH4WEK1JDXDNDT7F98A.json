@@ -1,0 +1,32 @@
+{
+  "id": "01FB7KNSH4WEK1JDXDNDT7F98A",
+  "created_at": "2021-07-22T17:19:41+00:00",
+  "updated_at": "2021-07-22T17:19:41+00:00",
+  "name": "Generic Cotton Shoes",
+  "images": {
+    "thumb": null,
+    "full": "http://placeimg.com/640/480/cats"
+  },
+  "status": "unpaid",
+  "customer_notes": "",
+  "admin_notes": "",
+  "variant": null,
+  "dimensions": [
+
+  ],
+  "quantity": {
+    "amount": 10,
+    "unit": "each"
+  },
+  "unit_price": {
+    "amount": 858,
+    "currency": "USD"
+  },
+  "subtotal": {
+    "amount": 8580,
+    "currency": "USD"
+  },
+  "discounts": [
+
+  ]
+}
